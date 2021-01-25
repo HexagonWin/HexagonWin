@@ -41,7 +41,9 @@ etc..
 # Contact
 
 E-Mail : hexagonwin@protonmail.com / hexagonwin@archve.ga / baickainetwork@gmail.com
+
 Telegram : @centuser
+
 Discord : @Lemonade#2074
 
 etc.. (Some may be forgotten)
@@ -49,8 +51,11 @@ etc.. (Some may be forgotten)
 # Links
 
 My website : [http://www.archve.ga]
+
 Basic HTML : [http://html2.archve.ga]
+
 Tattertools Blog : [http://blog.archve.ga]
+
 (WIP) HTk Website : [http://www.haneul.tk]
 
 etc..
