@@ -20,15 +20,22 @@ I don't really play games but some I can play are [F-Zero](https://en.wikipedia.
 
 ## Phones
 Apple iPhone 4 32GB Black (iOS 5.1.1 by Pluvia)
+
+
 Apple iPhone 4S 16GB Black (iOS 6.1.3)
+
 Apple iPhone 5 16GB White (iOS 8.4.1)
+
 Apple iPhone 5 64GB White (iOS 6.1.4 by [n1ghtshade](http://github.com/synackuk/n1ghtshade/))
+
 Apple iPhone 5s 16GB White (iOS 12.4.9)
 
 Pantech SKY VEGA S5 Special Black
+
 Pantech SKY VEGA R3 White (LineageOS 14 by ~~XDAVN~~ *RIP..*)
 
 Samsung Galaxy Note 4 S-LTE (SM-N916S) (LineageOS 17 by **[ananjaser1211](https://forum.xda-developers.com/m/4637718/)**)
+
 Samsung Multitouch 2 (Windows Mobile)
 
 LG G2 White-Silver (LineageOS 16 by LineageOS + HIRU Kernel 3.2 by hiru)
@@ -46,6 +53,8 @@ If you have any questions or just anything to say, please contact me!
 E-Mail : hexagonwin@protonmail.com / hexagonwin@archve.ga / baickainetwork@gmail.com
 
 Telegram : @centuser
+
+Matrix : 
 
 Discord : @Lemonade#2074
 
