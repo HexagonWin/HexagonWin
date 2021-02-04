@@ -21,7 +21,6 @@ I don't really play games but some I can play are [F-Zero](https://en.wikipedia.
 ## Phones
 Apple iPhone 4 32GB Black (iOS 5.1.1 by Pluvia)
 
-
 Apple iPhone 4S 16GB Black (iOS 6.1.3)
 
 Apple iPhone 5 16GB White (iOS 8.4.1)
@@ -54,9 +53,9 @@ E-Mail : hexagonwin@protonmail.com / hexagonwin@archve.ga / baickainetwork@gmail
 
 Telegram : @centuser
 
-Matrix : 
+Matrix (Element) : @hexagonwin:matrix.org
 
-Discord : @Lemonade#2074
+Discord : @hw#2074
 
 etc.. (Some may be forgotten)
 
@@ -73,4 +72,4 @@ Tattertools Blog : [http://blog.archve.ga]
 etc..
 
 # 
-Last edited : Jan 25, 2021
+Last edited : Feb 4, 2021
