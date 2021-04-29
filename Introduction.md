@@ -47,7 +47,7 @@ etc..
 # Contact
 
 If you have any questions or just anything to say, please contact me!
-(If I don't respond, please try instant messengers like Telegram or Discord. I may be too lazy to check my mails.)
+(If I don't respond, please try instant messengers like Telegram or Matrix (Element). I may be too lazy to check my mails.)
 
 E-Mail : hexagonwin@protonmail.com / hexagonwin@archve.ga / baickainetwork@gmail.com
 
