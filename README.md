@@ -55,21 +55,15 @@ Telegram : @centuser
 
 Matrix (Element) : @hexagonwin:matrix.org
 
-Discord : @hw#2074
-
 etc.. (Some may be forgotten)
 
 # Links
 
 My website : [http://www.archve.ga]
 
-Basic HTML : [http://html2.archve.ga]
-
 Tattertools Blog : [http://blog.archve.ga]
-
-(WIP) HTk Website : [http://www.haneul.tk]
 
 etc..
 
 # 
-Last edited : Feb 4, 2021
+Last edited : April 29, 2021
