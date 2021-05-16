@@ -1,7 +1,7 @@
 # Hello!
 
 Hello! I'm **HexagonWin**, also known as **LegendOcta** or **CenU**, or **Helix**. I'm a student in South Korea. I'm interested in web development, experiments with computers, and everything Pantech and VEGA.
-I don't really play games but some I can play are [F-Zero](https://en.wikipedia.org/wiki/F-Zero_%28video_game%29) and [Asphalt 7](https://en.wikipedia.org/wiki/Asphalt_7:_Heat).
+I don't really play games but some I can play are [F-Zero](https://en.wikipedia.org/wiki/F-Zero_%28video_game%29) and [Asphalt 7](https://en.wikipedia.org/wiki/Asphalt_7:_Heat). I love FOSS programs and I also use Trisquel GNU/Linux 9.0 Etiona in my computer too.
 
 # Devices
 
