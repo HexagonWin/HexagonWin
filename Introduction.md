@@ -5,6 +5,8 @@ I don't really play games but some I can play are [F-Zero](https://en.wikipedia.
 
 # Devices
 
+I own these devices, if you want me to test something maybe you can contact me.
+
 ## Computers
 **Dell Precision T3600** - Main PC (Intel Xeon E5-1650, nvidia GTX 670 2GB, Samsung 860evo 500GB, Trisquel GNU/Linux, macOS 10.14.6 Mojave, Windows 7 Professional)
 
@@ -55,6 +57,8 @@ Telegram : @centuser
 
 Matrix (Element) : @hexagonwin:matrix.org
 
+Discord : @IwakuraLain#6553
+
 etc.. (Some may be forgotten)
 
 # Links
@@ -66,4 +70,4 @@ Tattertools Blog : [http://blog.archve.ga]
 etc..
 
 # 
-Last edited : May 16, 2021
+Last edited : June 30, 2021
